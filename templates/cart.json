@@ -1,0 +1,49 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-cart-items",
+      "blocks": {
+        "delivery_estimation_rG3g6k": {
+          "type": "delivery_estimation",
+          "settings": {
+            "icons_color": "accent-1",
+            "today_info": "Ordered",
+            "ready_info": "Order ready",
+            "ready": 1,
+            "delivered_info": "Delivered",
+            "delivered": 1
+          }
+        },
+        "6e04c9d4-8ead-44a5-afb1-7a9385e50734": {
+          "type": "code",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "delivery_estimation_rG3g6k",
+        "6e04c9d4-8ead-44a5-afb1-7a9385e50734"
+      ],
+      "settings": {
+        "heading_style": "1",
+        "additional_checkout_buttons": false,
+        "padding_top": 64,
+        "padding_bottom": 0,
+        "padding_top_sm": 32,
+        "padding_bottom_sm": 0
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
